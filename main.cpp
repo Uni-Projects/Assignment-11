@@ -1,3 +1,8 @@
+/*
+ * Assignment 11
+ * Paolo Scattolin (s1023775)
+ * Johan Urban (s1024726)
+ */
 #include <iostream>
 #include <cassert>
 #include <string>
